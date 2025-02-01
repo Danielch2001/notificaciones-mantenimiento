@@ -14,7 +14,7 @@ La API permite supervisar el estado de diversas **fotocopiadoras** en la empresa
 
 ## 🌐 Repositorio del Frontend
 👉 La aplicación React que consume esta API se encuentra en el siguiente repositorio:  
-**🔗 [[LINK_A_REACT_REPO](https://github.com/Danielch2001/MinicoreMVCAstro-Django)]** *(Actualiza este link)*
+**🔗 [[LINK_A_REACT_REPO](https://github.com/Danielch2001/gestion-fotocopiadoras)]** *(Actualiza este link)*
 
 ---
 
@@ -121,7 +121,7 @@ Ejemplo de JSON para simular una notificación:
 
 1. Un administrador puede enviar una solicitud `POST /api/simular/` para indicar que una fotocopiadora tiene un problema.
 2. La API crea automáticamente una notificación en la base de datos.
-3. La aplicación en React (ver repositorio 🔗 [[LINK_A_REACT_REPO](https://github.com/Danielch2001/MinicoreMVCAstro-Django)]) consume esta API y muestra las alertas en tiempo real.
+3. La aplicación en React (ver repositorio 🔗 [[LINK_A_REACT_REPO](https://github.com/Danielch2001/gestion-fotocopiadoras)]) consume esta API y muestra las alertas en tiempo real.
 4. Los técnicos pueden visualizar las notificaciones y resolver los problemas.
 
 ---
