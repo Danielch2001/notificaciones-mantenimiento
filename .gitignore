@@ -1,0 +1,24 @@
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno virtual
+venv/
+env/
+*.env
+*.venv
+.Python
+
+# Archivos de configuración de Django
+db.sqlite3
+instance/
+media/
+staticfiles/
+local_settings.py
+.env
+
+# Archivos de migraciones temporales
+**/migrations/*.py
+!**/migrations/__init__.py
